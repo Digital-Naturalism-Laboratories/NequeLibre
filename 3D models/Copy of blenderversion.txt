@@ -1,0 +1,1 @@
+Blender version used to create this rig is 3.3.0
